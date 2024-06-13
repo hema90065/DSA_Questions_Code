@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ff4d5c8-191d-47e5-bdbc-b8a0a3f52ede" name="Changes" comment="DSA_Questions">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ChocolateDistributionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindPairWithSumInSortedAndRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/KadanesAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSumOfSubarrayUsingPrefixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumProductSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumElementInASortedAndRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumNumberOfMergeOperationsToMakeAnArrayPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PrintSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PrintsPairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TrappedRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/BSTToBalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/FindTheClosestElementInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/FindkthSmallestElementInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/IsValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/Merge2BSTs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/MirrorOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/RangeSumOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/SizeOfLargestBSTInBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BST/SortedArrayToBalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSearchingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSearchingAlgorithms/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSearchingAlgorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSearchingAlgorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/BuildTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/CheckIfABinaryTreeIsUnivaluedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/CountOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/DeleteSameLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/DiameterOfTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/HeighAndDiametertOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/MinimumDistanceBetween2Nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/SumOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/TopView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/TransformToSumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CatalansNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/CountBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestIncreasingPathInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MatrixChainMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaximumProfitAfterBuyingAndSellingStocksWithTransactionFees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumArrayJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumPartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/MountainRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/PrintAllCombinationsOfBalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/RodCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/StringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/TargetSumSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/TribonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/UnboundedKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/WildCardMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/AllPathFromSourceToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ArticulationPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BellmanFord2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BipartiteGraphC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BridgeInGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CheapestFlightsWithinKStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ConnectedComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ConnectingCities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CycleDetectionInDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DijkstarSAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DisjointSetUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/FinFindTheSizeOfTheLargestRegionInTheBooleanMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/FindMinimumDepthOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/FindNumberOfClosedIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/FloodFillAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/FloydWarshallAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/GraphG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/HasPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Kruskal_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/MinimumTimeRequiredToRotAllOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Prim_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/StronglyConnectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/TopologicalSortingUsingBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/TopologicalSortingUsingDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/ChocolaProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/FractionalKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/IndianCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/JobSequencing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/KthLargestOddNumberInAGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/MaxActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/MaximumActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/MaximumBalancedStringPartitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/MaximumLengthChainOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/MinimumSumAbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithms/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/CountDistinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/FindItineraryForTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HashMapCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HashMapOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HashSetIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/LargestSubArrayWithSum0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/MajorityElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/SubArraySumEqualToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/UnionAndIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/AddNodeInHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/ConnectNRopesWithMinimumCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/NearbyCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/PQForObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/PriorityQueueA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/SortHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/WeakestSoldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/DoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/JavaCollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/JobSequencingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/MaximumOfAllSubarraysOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/PrintBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/PriorityQueuepq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/QueueReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QUEUE/ReversingthefirstKelementsOfAQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegmentTree/BuildST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegmentTree/MinMaxSigmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/IsValidString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/NextGreaterEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StockSpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/TrappedRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/TrappedWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ValidPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/GroupAnagramsTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/LongestWordWithAllPrefixs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/PrefixProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/StartWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/TrieOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/UniqueSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie/WordBreakProblem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DynamicProgramming/WildCardMatching.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PabxGL2omzPI3SxAdEd0BSlKKC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HKUMARI/IdeaProjects/Data_Structure_and_Algorithm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HKUMARI\IdeaProjects\untitled\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Arrays" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DisjointSetUnion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.DisjointSetUnion" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.Knapsack" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DisjointSetUnion" />
+        <item itemvalue="Application.Knapsack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff4d5c8-191d-47e5-bdbc-b8a0a3f52ede" name="Changes" comment="" />
+      <created>1683698389163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683698389163</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA_Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA_Questions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" log-stack="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

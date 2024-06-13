@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1c7e42c-6c29-4c55-a45e-61d7a07f5aee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/BSTToBalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/FindTheClosestElementInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/FindkthSmallestElementInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/IsValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/Merge2BSTs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/MirrorOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/RangeSumOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/SizeOfLargestBSTInBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/SortedArrayToBalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/BuildTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/CheckIfABinaryTreeIsUnivaluedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/CountOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/DeleteSameLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/DiameterOfTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/HeighAndDiametertOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/MinimumDistanceBetween2Nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/SumOfNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/TopView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/TransformToSumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/ChocolaProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/FractionalKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/IndianCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/JobSequencing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/KthLargestOddNumberInAGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/MaxActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/MaximumActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/MaximumBalancedStringPartitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/MaximumLengthChainOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/MinimumSumAbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithms/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/HashMapCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/HashMapOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/MajorityElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/AddNodeInHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/ConnectNRopesWithMinimumCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/NearbyCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/PQForObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/PriorityQueueA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/SortHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/WeakestSoldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/DoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/JavaCollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/JobSequencingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/MaximumOfAllSubarraysOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/PrintBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/PriorityQueuepq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/QueueReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUEUE/ReversingthefirstKelementsOfAQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/IsValidString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/NextGreaterEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/StackB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/StackCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/StackLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/StockSpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/TrappedRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/TrappedWater.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RKUmC04AO3YWWRMwJdSNAjBSAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/HKUMARI/IdeaProjects/untitled/out/production/DSA"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c7e42c-6c29-4c55-a45e-61d7a07f5aee" name="Changes" comment="" />
+      <created>1686998422829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686998422829</updated>
+    </task>
+    <servers />
+  </component>
+</project>
